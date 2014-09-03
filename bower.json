@@ -1,0 +1,17 @@
+{
+  "name": "poxy-wp-multi-post-thumbnails",
+  "version": "0.0.1",
+  "homepage": "https://github.com/paulwooddesign/poxy-wp-multi-post-thumbnails",
+  "authors": [
+    "Paul Wood <paul@poxy.io>"
+  ],
+  "keywords": [
+    "poxy"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {}
+}
